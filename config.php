@@ -1,6 +1,6 @@
 <?php
 
 // cool comment
-$env = 'production';
+$env = 'dev';
 
 $host = 'cool.host22';
