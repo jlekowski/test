@@ -3,4 +3,4 @@
 // cool comment
 $env = 'production';
 
-$host = 'cool.host';
+$host = 'cool.host22';
